@@ -75,3 +75,18 @@ public class TimSort_이민선 {
         System.out.println("After Sorting: " + Arrays.toString(arr));
     }
 }
+/**
+ * 시간복잡도
+ * 최선: O(N)
+ * 평균: O(N log N)
+ * 최악: O(N log N)
+ *
+ * 공간복잡도
+ * O(N) 추가 배열 필요
+ *
+ * 제자리 정렬
+ * X (병합 과정에서 추가 배열 필요)
+ *
+ * 안정 정렬
+ * O
+ */
