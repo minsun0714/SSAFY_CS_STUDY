@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f42c5355-95b0-477a-8b4a-a06e1aa19a62" name="Changes" comment="" />
+    <list default="true" id="f42c5355-95b0-477a-8b4a-a06e1aa19a62" name="Changes" comment=".idea, out 폴더 .gitignore에 추가">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorting_Algorithm(2025-02-24)/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Sorting_Algorithm(2025-02-24)/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,12 +39,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/rlaru/OneDrive/바탕 화면/Sort_Geek"
+    "last_opened_file_path": "C:/Users/rlaru/OneDrive/바탕 화면/SSAFY_CS_STUDY/Sorting_Algorithm(2025-02-24)"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rlaru\OneDrive\바탕 화면\SSAFY_CS_STUDY\Sorting_Algorithm(2025-02-24)" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -48,6 +60,44 @@
       <option name="presentableId" value="Default" />
       <updated>1739956771997</updated>
     </task>
+    <task id="LOCAL-00001" summary=".idea .gitignore에 추가">
+      <option name="closed" value="true" />
+      <created>1740307775665</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740307775665</updated>
+    </task>
+    <task id="LOCAL-00002" summary=".idea, out 폴더 .gitignore에 추가">
+      <option name="closed" value="true" />
+      <created>1740307837593</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1740307837593</updated>
+    </task>
+    <task id="LOCAL-00003" summary=".idea, out 폴더 .gitignore에 추가">
+      <option name="closed" value="true" />
+      <created>1740307913072</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1740307913072</updated>
+    </task>
+    <task id="LOCAL-00004" summary=".idea, out 폴더 .gitignore에 추가">
+      <option name="closed" value="true" />
+      <created>1740307971433</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1740307971433</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=".idea .gitignore에 추가" />
+    <MESSAGE value=".idea, out 폴더 .gitignore에 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value=".idea, out 폴더 .gitignore에 추가" />
   </component>
 </project>
