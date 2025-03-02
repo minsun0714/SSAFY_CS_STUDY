@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 //삽입정렬: key값 전에 key값보다 작은값들 오른쪽으로 밀고 삽입하기
-public class SelectionSort_한재경 {
+public class InsertionSort_한재경 {
     public static void mySort(int[] arr) {
         int n = arr.length;
         for (int i = 1; i < n; i++) {
