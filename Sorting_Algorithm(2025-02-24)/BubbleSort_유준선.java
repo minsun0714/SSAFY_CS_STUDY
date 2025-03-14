@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class BubbleSort {
+public class BubbleSort_유준선 {
     public static void main(String[] args) {
         int[] arr = {5, -3, 17, -10, 84, 0, -19, 6, 22, 9};
         System.out.println("정렬 전: " + Arrays.toString(arr));
