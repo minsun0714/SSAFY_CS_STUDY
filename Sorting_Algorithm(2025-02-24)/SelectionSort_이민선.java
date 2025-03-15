@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Selection_이민선 {
+public class SelectionSort_이민선 {
     public static void selectionSort(int[] arr, int length){
         for (int i=0;i<length;i++){
             int minIdx = i;
